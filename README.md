@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Hi, I'm Nutchanon
+I'm interested in
+- Blockchain
+- Web Development
+- Software Development
 <!--
 **nutchanonc/nutchanonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact) -->
+
+![Nutchanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutchanonc&show_icons=true&theme=radical)
+
