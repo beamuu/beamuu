@@ -1,23 +1,11 @@
 # Hi, I'm Nutchanon
-I'm interested in
-- Blockchain
-- Web Development
-- Software Development
-<!--
-**nutchanonc/nutchanonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A computer engineering student from Kasetsart University, Bangkok, Thailand. 🇹🇭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact) -->
+**`Blockchain Developer 👍🏻`**
+**`Computer Engineer`**
+**`Software Engineer`**
+**`Cat owner 🐱`**
 
 ![Nutchanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutchanonc&show_icons=true&theme=radical)
 
