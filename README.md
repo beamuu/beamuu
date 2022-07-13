@@ -3,7 +3,7 @@
 A computer engineering student from Kasetsart University, Bangkok, Thailand. 🇹🇭
 
 **`Blockchain Developer 👍🏻`**
-**`Computer Engineer`**
+**`Full Stack Developer`**
 **`Software Engineer`**
 **`Cat owner 🐱`**
 
