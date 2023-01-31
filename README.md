@@ -7,5 +7,5 @@ A computer engineering student from Kasetsart University, Bangkok, Thailand. ğŸ‡
 **`Software Engineer`**
 **`Cat owner ğŸ±`**
 
-![Nutchanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutchanonc&show_icons=true&theme=radical)
+![Nutchanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=beamuu&show_icons=true&theme=radical)
 
